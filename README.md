@@ -1,8 +1,8 @@
-# Markdown Previewer
+# Calculator
 The project involves creating a calculator with various features such as clickable number buttons, mathematical operators, decimal point, clear button, and a display element. It should allow inputting numbers, performing mathematical operations, handling decimal points, consecutive operators, and displaying accurate results with decimal precision.
 [FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator).
 
-**Live:** 
+**Live:** https://calculator-virid-six.vercel.app/
 
 ## Table of contents
 
@@ -22,7 +22,7 @@ The project involves creating a calculator with various features such as clickab
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/mihalidis/Calculator)
-- Live Site URL: [Markdown Previewer]()
+- Live Site URL: [Markdown Previewer](https://calculator-virid-six.vercel.app/)
 
 ## My process
 
